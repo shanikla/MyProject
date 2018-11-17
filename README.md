@@ -1,4 +1,4 @@
-** Instructions **
+# Instructions
 
 maven build:
 
@@ -18,7 +18,7 @@ REST service exposed for event types counts:
 `
 
 
-** Improvements **
+# Improvements
 
 1. NoSQL handling for scaling up, memory usage and performance.
 
